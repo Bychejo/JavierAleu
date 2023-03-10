@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="la1.es" tvg-name="|ES| LA 1 SD" tvg-logo="http://51.15.10.117/logos/picon/la1.png" group-title="|ES| TELEVISION TDT SPAIN",|ES| LA 1 SD
 http://minouch.xyz:80/live/sJc4cVNLkh/7xPEAyzPOR/52215.ts?play_token=mCPJ5vdqkP:1678390047:xyz:80/live/sJc4cVNLkh/7xPEA
 #EXTINF:-1 tvg-id="la1.es" tvg-name="|ES| LA 1 HD " tvg-logo="http://51.15.10.117/logos/picon/la1.png" group-title="|ES| TELEVISION TDT SPAIN",|ES| LA 1 HD 
